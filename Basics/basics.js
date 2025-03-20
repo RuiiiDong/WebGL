@@ -1,4 +1,3 @@
-
 import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.173.0/build/three.module.js';
 
 function main() {
